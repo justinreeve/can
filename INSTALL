@@ -1,5 +1,3 @@
-
-
 Installation
 ----------------
 composer require "justinreeve/can" "1.0.*@dev"
