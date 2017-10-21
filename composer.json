@@ -1,0 +1,34 @@
+{
+  "name": "jjharr/can",
+  "description": "In development",
+  "keywords": [],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Josh Harr",
+      "email": "josh@cornercanyonconsulting.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "5.1.x || 5.2.x",
+    "illuminate/console": "5.1.x || 5.2.x",
+    "illuminate/database": "5.1.x || 5.2.x"
+  },
+  "require-dev": {
+    "phpunit/phpunit": ">=4.1",
+    "mockery/mockery": "dev-master"
+  },
+  "suggest": {
+  },
+  "autoload": {
+    "psr-4": {
+      "jjharr\\Can\\": "src/Can"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}
