@@ -1,5 +1,5 @@
 {
-  "name": "jjharr/can",
+  "name": "justinreeve/can",
   "description": "In development",
   "keywords": [],
   "license": "MIT",
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "jjharr\\Can\\": "src/Can"
+      "justinreeve\\Can\\": "src/Can"
     }
   },
   "extra": {

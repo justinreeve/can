@@ -1,6 +1,6 @@
 <?php
 
-namespace jjharr\Can;
+namespace justinreeve\Can;
 
 
 use Illuminate\Support\Facades\Config;

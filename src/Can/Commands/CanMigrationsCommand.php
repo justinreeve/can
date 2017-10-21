@@ -1,6 +1,6 @@
 <?php
 
-namespace jjharr\Can\Commands;
+namespace justinreeve\Can\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Config;

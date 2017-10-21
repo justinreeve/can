@@ -1,10 +1,10 @@
-<?php namespace jjharr\Can;
+<?php namespace justinreeve\Can;
 /**
  *
  * @license MIT
  * @package Can
  */
-use jjharr\Can\Commands\CanMigrationsCommand;
+use justinreeve\Can\Commands\CanMigrationsCommand;
 use Illuminate\Support\ServiceProvider;
 
 class CanServiceProvider extends ServiceProvider
